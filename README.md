@@ -7,14 +7,17 @@ I'm an MBA graduate from Brazil who lives in Canada and enjoys building things a
 Studying programming and problem-solving
 Building small, practical projects
 Exploring how software can solve real-world problems
+
 🧠 Interests
 Startups and early-stage products
 Automation and efficiency
 Learning by doing
+
 🛠️ Technologies (learning)
 HyperText Markup Language, Cascading StyleSheets, JavaScript
 Git & GitHub
 Basic web development
+
 📂 Projects
 
 Here are some things I've built:
