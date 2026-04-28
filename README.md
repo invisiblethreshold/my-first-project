@@ -1,7 +1,7 @@
 # my-first-project
 Hi, I'm Matheus 👋
 
-I'm an MBA graduate from Canada who lives in Brazil and enjoys building things and understanding how systems work. I can speak five languages: Portuguese, English, Spanish, French, and German.
+I'm an MBA graduate from Brazil who lives in Canada and enjoys building things and understanding how systems work. I can speak five languages: Portuguese, English, Spanish, French, and German.
 
 🚀 What I'm doing
 Studying programming and problem-solving
